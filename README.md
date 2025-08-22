@@ -43,26 +43,7 @@ I believe in **building tools that empower users rather than exploit them**.
 
 ---
 
-## 💼 Experience Highlights  
 
-### 🧑‍💻 AI Developer @ QwikGig (2025 – Present)  
-- Built **speech-to-text pipeline & compliance automation** with Claude 3.5 + Mistral 7B.  
-- Designed **AWS pipeline with DynamoDB caching**, cutting costs by **40%**.  
-- Deployed a **privacy-first analytics chatbot**, boosting engagement by **50%**.  
-- Migrated legacy automation → **Python + Bash**, cutting processing time **60%**.  
-
-### 📊 Data Scientist Intern @ Anagram Media Labs (2024 – Present)  
-- Scaled **PostgreSQL + RDS database** from 1M → 4.5M influencer profiles.  
-- Automated ETL workflows & scrapers with **Selenium**, accelerating analytics.  
-- Built **Looker Studio dashboards**, improving reporting by **60%**.  
-- Optimized **cloud storage**, reducing latency by **80%**.  
-
-### 📈 Business Analyst Intern @ MedWander (2024)  
-- Integrated **OCR + NER models** (PyTesseract, BERT, RoBERTa).  
-- Built **transformer keyword classification system**, saving **30% costs**.  
-- Developed **healthcare chatbot** using **LangChain + Groq API**.  
-
----
 
 ## 📚 Education  
 🎓 B.Tech in **Artificial Intelligence & Machine Learning**  
